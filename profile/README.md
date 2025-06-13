@@ -14,28 +14,8 @@ We guide early-stage startups, founders, and established companies in harnessing
 
 # ✨ Zerdeya Advisory Services
 
-* **AI Mentorship & Training**
-    Empowering your team and talent with the knowledge and practical skills to confidently adopt and innovate with cutting-edge AI technologies. We provide founders with the clarity and guidance needed to build robust AI capabilities from the ground up, making informed strategic decisions for their venture's future.
-
-* **Generative AI Implementation**
-    From concept validation to practical deployment, leveraging advanced AI for automation, enhanced decision-making, and novel solutions. For founders, we transform innovative GenAI concepts into tangible, deployable realities, accelerating your time to market and de-risking your solution's journey from idea to impact.
-
-* **Cloud Strategy & Optimization**
-    Designing robust, scalable, and cost-efficient cloud foundations for seamless migration and operations. We ensure founders build on solid, optimized cloud infrastructure from day one, providing the scalability to grow and the efficiency to manage costs as their venture expands.
-
-## 💡 Your Challenges, Our Solutions 
-
-* **User🧑‍💻:** My team needs to get up to speed on GenAI, but where do they learn practical skills?
-    * **Zerdeya 💬:** Our mentorship programs empower your talent with hands-on skills and confidence in cutting-edge AI technologies.
-
-* **User🧑‍💻:** I've enabled code generation for our team but now we have backlog of GitHub PRs to review. How can you help?
-    * **Zerdeya 💬:** We can leverage code review agents to help with that!
-
-* **User🧑‍💻:** We know AI is huge, but where do we even begin? What's our first step?
-    * **Zerdeya 💬:** We craft clear AI roadmaps tailored to your business, guiding you from foundational strategy to initial implementation.
-
-* **User🧑‍💻:** Our monthly Firebase cloud bill is spiraling out of control. How can we cut costs without sacrificing performance?
-    * **Zerdeya 💬:** We identify inefficiencies and optimize your cloud spend, ensuring maximum value from your infrastructure.
+* **Mentorship & Guidance**
+    Empowering your team and talent with the knowledge and practical skills to confidently adopt and innovate with cutting-edge technologies. We provide founders with the clarity and guidance needed to build robust capabilities from the ground up, making informed strategic decisions for their venture's future.
 
 ## 🚀 About Us
 
