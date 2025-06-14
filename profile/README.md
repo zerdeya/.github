@@ -8,9 +8,9 @@
 
 
 
-# Strategic Insights for Cloud & Generative AI
+# GenAI & Cloud: Strategic Guidance
 
-We guide early-stage startups, founders, and established companies in harnessing the transformative power of AI and cloud computing to drive innovation, efficiency, and competitive advantage.
+We provide early-stage startups and founders with technical mentorship and expert guidance to tap into the game-changing potential of AI and cloud computing, so they can innovate rapidly, operate efficiently, and truly stand out in their market.
 
 # ✨ Zerdeya Advisory Services
 
