@@ -1,9 +1,7 @@
 
 
 <h1 style="display: flex; align-items: center; gap: 15px;">
-  <img src="assets/zerdeya-logo-CXfiCp7i.jpg" alt="Zerdeya Logo" width="150" height="auto" style="vertical-align: middle;">
   <a href="https://www.zerdeya.com">Zerdeya.com</a>
-
 </h1>
 
 
